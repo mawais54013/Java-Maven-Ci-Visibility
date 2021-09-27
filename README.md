@@ -1,4 +1,4 @@
-# # Ci-Visibility For Java-Gradle
+## Ci-Visibility For Java-Gradle
  
 ## Compatibility 
 JUnit >= 4.10 and >= 5.3<br/>
